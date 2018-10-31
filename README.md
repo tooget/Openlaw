@@ -9,3 +9,9 @@ An legal data pipeline, search and analysis framework.
  - Authorized ID and Public IP setting to access the system.
  - Python 3.6+
  - (optional) Jupyter Notebook
+
+## 3. Structure
+ - Data Archiving and Processing
+ > - *01-data-pipeline*
+ - Data Analysis
+ - Data Search
